@@ -15,6 +15,17 @@
 		2D4CFB5820DA2A7700F23133 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFB5720DA2A7700F23133 /* main.m */; };
 		2D4CFB6220DA2A7700F23133 /* emoj_demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFB6120DA2A7700F23133 /* emoj_demoTests.m */; };
 		2D4CFB6D20DA2A7700F23133 /* emoj_demoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFB6C20DA2A7700F23133 /* emoj_demoUITests.m */; };
+		2D4CFB8120DA2A9C00F23133 /* BZMLEmojiModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFB7C20DA2A9C00F23133 /* BZMLEmojiModel.m */; };
+		2D4CFB8220DA2A9C00F23133 /* MLEmojiLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFB7E20DA2A9C00F23133 /* MLEmojiLabel.m */; };
+		2D4CFB8320DA2A9C00F23133 /* TTTAttributedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFB8020DA2A9C00F23133 /* TTTAttributedLabel.m */; };
+		2D4CFBAC20DA2ABE00F23133 /* [f056].png in Resources */ = {isa = PBXBuildFile; fileRef = 2D4CFB8620DA2ABE00F23133 /* [f056].png */; };
+		2D4CFBAD20DA2ABE00F23133 /* [f057].png in Resources */ = {isa = PBXBuildFile; fileRef = 2D4CFB8720DA2ABE00F23133 /* [f057].png */; };
+		2D4CFBAE20DA2ABE00F23133 /* [f058].png in Resources */ = {isa = PBXBuildFile; fileRef = 2D4CFB8820DA2ABE00F23133 /* [f058].png */; };
+		2D4CFBAF20DA2ABE00F23133 /* [f059].png in Resources */ = {isa = PBXBuildFile; fileRef = 2D4CFB8920DA2ABE00F23133 /* [f059].png */; };
+		2D4CFBCE20DA2ABE00F23133 /* emtions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2D4CFBA820DA2ABE00F23133 /* emtions.plist */; };
+		2D4CFBD220DA2BC700F23133 /* emtionMeans.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2D4CFBD120DA2BC700F23133 /* emtionMeans.plist */; };
+		2D4CFBD520DA2BF700F23133 /* EmojiView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFBD420DA2BF700F23133 /* EmojiView.m */; };
+		2D4CFBD820DA339100F23133 /* EmojiHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D4CFBD720DA339100F23133 /* EmojiHelper.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,22 @@
 		2D4CFB6820DA2A7700F23133 /* emoj_demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = emoj_demoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D4CFB6C20DA2A7700F23133 /* emoj_demoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = emoj_demoUITests.m; sourceTree = "<group>"; };
 		2D4CFB6E20DA2A7700F23133 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D4CFB7B20DA2A9C00F23133 /* BZMLEmojiModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BZMLEmojiModel.h; sourceTree = "<group>"; };
+		2D4CFB7C20DA2A9C00F23133 /* BZMLEmojiModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BZMLEmojiModel.m; sourceTree = "<group>"; };
+		2D4CFB7D20DA2A9C00F23133 /* MLEmojiLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLEmojiLabel.h; sourceTree = "<group>"; };
+		2D4CFB7E20DA2A9C00F23133 /* MLEmojiLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLEmojiLabel.m; sourceTree = "<group>"; };
+		2D4CFB7F20DA2A9C00F23133 /* TTTAttributedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTAttributedLabel.h; sourceTree = "<group>"; };
+		2D4CFB8020DA2A9C00F23133 /* TTTAttributedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTAttributedLabel.m; sourceTree = "<group>"; };
+		2D4CFB8620DA2ABE00F23133 /* [f056].png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "[f056].png"; sourceTree = "<group>"; };
+		2D4CFB8720DA2ABE00F23133 /* [f057].png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "[f057].png"; sourceTree = "<group>"; };
+		2D4CFB8820DA2ABE00F23133 /* [f058].png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "[f058].png"; sourceTree = "<group>"; };
+		2D4CFB8920DA2ABE00F23133 /* [f059].png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "[f059].png"; sourceTree = "<group>"; };
+		2D4CFBA820DA2ABE00F23133 /* emtions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emtions.plist; sourceTree = "<group>"; };
+		2D4CFBD120DA2BC700F23133 /* emtionMeans.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = emtionMeans.plist; sourceTree = "<group>"; };
+		2D4CFBD320DA2BF700F23133 /* EmojiView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EmojiView.h; sourceTree = "<group>"; };
+		2D4CFBD420DA2BF700F23133 /* EmojiView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EmojiView.m; sourceTree = "<group>"; };
+		2D4CFBD620DA339100F23133 /* EmojiHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EmojiHelper.h; sourceTree = "<group>"; };
+		2D4CFBD720DA339100F23133 /* EmojiHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EmojiHelper.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,11 +132,17 @@
 				2D4CFB4920DA2A7000F23133 /* AppDelegate.m */,
 				2D4CFB4B20DA2A7000F23133 /* ViewController.h */,
 				2D4CFB4C20DA2A7000F23133 /* ViewController.m */,
+				2D4CFBD320DA2BF700F23133 /* EmojiView.h */,
+				2D4CFBD420DA2BF700F23133 /* EmojiView.m */,
+				2D4CFBD620DA339100F23133 /* EmojiHelper.h */,
+				2D4CFBD720DA339100F23133 /* EmojiHelper.m */,
 				2D4CFB4E20DA2A7000F23133 /* Main.storyboard */,
 				2D4CFB5120DA2A7700F23133 /* Assets.xcassets */,
 				2D4CFB5320DA2A7700F23133 /* LaunchScreen.storyboard */,
 				2D4CFB5620DA2A7700F23133 /* Info.plist */,
 				2D4CFB5720DA2A7700F23133 /* main.m */,
+				2D4CFB8420DA2ABE00F23133 /* EmtionImages */,
+				2D4CFB7A20DA2A9C00F23133 /* MLEmojiLabel */,
 			);
 			path = emoj_demo;
 			sourceTree = "<group>";
@@ -130,6 +163,32 @@
 				2D4CFB6E20DA2A7700F23133 /* Info.plist */,
 			);
 			path = emoj_demoUITests;
+			sourceTree = "<group>";
+		};
+		2D4CFB7A20DA2A9C00F23133 /* MLEmojiLabel */ = {
+			isa = PBXGroup;
+			children = (
+				2D4CFB7B20DA2A9C00F23133 /* BZMLEmojiModel.h */,
+				2D4CFB7C20DA2A9C00F23133 /* BZMLEmojiModel.m */,
+				2D4CFB7D20DA2A9C00F23133 /* MLEmojiLabel.h */,
+				2D4CFB7E20DA2A9C00F23133 /* MLEmojiLabel.m */,
+				2D4CFB7F20DA2A9C00F23133 /* TTTAttributedLabel.h */,
+				2D4CFB8020DA2A9C00F23133 /* TTTAttributedLabel.m */,
+			);
+			path = MLEmojiLabel;
+			sourceTree = "<group>";
+		};
+		2D4CFB8420DA2ABE00F23133 /* EmtionImages */ = {
+			isa = PBXGroup;
+			children = (
+				2D4CFB8620DA2ABE00F23133 /* [f056].png */,
+				2D4CFB8720DA2ABE00F23133 /* [f057].png */,
+				2D4CFB8820DA2ABE00F23133 /* [f058].png */,
+				2D4CFB8920DA2ABE00F23133 /* [f059].png */,
+				2D4CFBD120DA2BC700F23133 /* emtionMeans.plist */,
+				2D4CFBA820DA2ABE00F23133 /* emtions.plist */,
+			);
+			path = EmtionImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +294,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D4CFBAF20DA2ABE00F23133 /* [f059].png in Resources */,
+				2D4CFBAE20DA2ABE00F23133 /* [f058].png in Resources */,
+				2D4CFBCE20DA2ABE00F23133 /* emtions.plist in Resources */,
 				2D4CFB5520DA2A7700F23133 /* LaunchScreen.storyboard in Resources */,
 				2D4CFB5220DA2A7700F23133 /* Assets.xcassets in Resources */,
+				2D4CFBAD20DA2ABE00F23133 /* [f057].png in Resources */,
+				2D4CFBAC20DA2ABE00F23133 /* [f056].png in Resources */,
+				2D4CFBD220DA2BC700F23133 /* emtionMeans.plist in Resources */,
 				2D4CFB5020DA2A7000F23133 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -263,8 +328,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D4CFB4D20DA2A7000F23133 /* ViewController.m in Sources */,
+				2D4CFB8120DA2A9C00F23133 /* BZMLEmojiModel.m in Sources */,
+				2D4CFBD820DA339100F23133 /* EmojiHelper.m in Sources */,
+				2D4CFB8220DA2A9C00F23133 /* MLEmojiLabel.m in Sources */,
 				2D4CFB5820DA2A7700F23133 /* main.m in Sources */,
 				2D4CFB4A20DA2A7000F23133 /* AppDelegate.m in Sources */,
+				2D4CFB8320DA2A9C00F23133 /* TTTAttributedLabel.m in Sources */,
+				2D4CFBD520DA2BF700F23133 /* EmojiView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
